@@ -40,4 +40,4 @@ Nassau-Candy-Distributor/
 └── README.md
 ## 🚀 Live Streamlit Dashboard
 
-[Open Live Dashboard - https://coderkanishka-nassau-candy-distributor-app-vbqvlb.streamlit.app/
+[Open Live Dashboard - https://coderkanishka-nassau-candy-distributor-app-vbqvlb.streamlit.app/]
