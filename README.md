@@ -38,3 +38,6 @@ Nassau-Candy-Distributor/
 ├── app.py
 ├── requirements.txt
 └── README.md
+## 🚀 Live Streamlit Dashboard
+
+[Open Live Dashboard - https://coderkanishka-nassau-candy-distributor-app-vbqvlb.streamlit.app/
