@@ -21,8 +21,8 @@ The project covers data preparation, exploratory data analysis, profitability an
 
 ---
 
+https://coderkanishka-nassau-candy-distributor-app-vbqvlb.streamlit.app/ ]
 ## 🗂️ Project Structure
-
 ```text
 Nassau-Candy-Distributor/
 │
@@ -40,4 +40,4 @@ Nassau-Candy-Distributor/
 └── README.md
 ## 🚀 Live Streamlit Dashboard
 
-[Open Live Dashboard - https://coderkanishka-nassau-candy-distributor-app-vbqvlb.streamlit.app/]
+
